@@ -1,0 +1,20 @@
+--------------
+*StringsInObj*
+--------------
+A small program to print out all printable characters found in the input file. Prints the file offset along with the printed character/string. Useful for finding something about packed software (like if you are dealing with a malware).
+
+Please feel free to reuse code from this project. Kindly include a reference to me in your code. :)
+
+-------
+*USAGE*
+-------
+usage: .\StringsInObj.exe <pathToInputFile>
+
+Warning: All output printed to stdout. It would be wise to redirect output to a file.
+	
+---------
+*CONTACT*
+---------
+* Shishir Prasad *
+- shishir89@gmail.com
+- www.shishirprasad.net
